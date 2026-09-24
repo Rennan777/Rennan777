@@ -10,7 +10,7 @@ Mais de 10 anos de tecnologia, os últimos 4 dedicados à engenharia de dados �
 
 Já trabalhei com integração e transformação de dados corporativos (Talend, Snowflake, SQL Server, PostgreSQL), construção de ambientes de ingestão e processamento com Apache NiFi, Kafka e Cassandra com deploys orquestrados via Docker, e projetos de Data Lake com ingestão de mais de 100 APIs externas e bancos relacionais para camada bronze, com modelagem em dbt.
 
-Meu jeito de trabalhar: recebo uma demanda, estudo, aprendo, implemento e aprofundo o conhecimento para melhorar continuamente. Sigo me aprofundando em dbt, Apache Airflow e Apache Spark.
+Gosto de encarar cada novo desafio como oportunidade de evolução: assumo a demanda, aprofundo o conhecimento necessário e entrego a solução — saindo sempre mais preparado para o próximo. Atualmente estou me aprofundando em dbt, Apache Airflow e Apache Spark.
 
 ## Stack
 
@@ -31,12 +31,6 @@ Meu jeito de trabalhar: recebo uma demanda, estudo, aprendo, implemento e aprofu
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="S3"/>
 </p>
-
-## Projetos em destaque
-
-- 🐳 [**containers-lab-blueprints**](https://github.com/Rennan777/containers-lab-blueprints) — blueprints Docker Compose para laboratórios locais de engenharia de dados (NiFi, Kafka, Spark, Trino, Postgres, SQL Server, Cassandra, MinIO, Hive Metastore, JasperReports, Prometheus/Grafana)
-- 🌬️ [**workshop_airflow**](https://github.com/Rennan777/workshop_airflow) — pipelines Airflow de ingestão e processamento (TaskFlow API, Postgres, Spark)
-- 🔧 [**dtbproject**](https://github.com/Rennan777/dtbproject) — modelagem analítica com dbt (transformações, relatórios de BI, particionamento)
 
 ## Contato
 
